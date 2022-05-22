@@ -2,7 +2,7 @@
 
 My name is Marcel and I am a curious person with a passion for programming, web technologies and ☁️-computing. I love exploring today's ever-evolving technologies and continuously learn new things. 💡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelreppi&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelreppi&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Socials 
 
