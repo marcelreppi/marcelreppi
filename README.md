@@ -4,10 +4,10 @@ My name is Marcel and I am a curious person with a passion for programming, web 
 
 ### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcelreppi&show_icons=true"></img>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=marcelreppi&show_icons=true"></img> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelreppi&langs_count=8&layout=compact"></img>
 
-### Technologies
+<!-- ### Technologies
 
 #### <img src="https://icon-library.com/images/frontend-icon/frontend-icon-4.jpg" width="30" height="30"></img> Frontend
 
@@ -58,7 +58,7 @@ My name is Marcel and I am a curious person with a passion for programming, web 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
-
+ -->
 
 ### Socials
 
